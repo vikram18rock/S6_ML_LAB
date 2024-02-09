@@ -1,0 +1,6 @@
+1. Write a program to perform Matrix addition, subtraction, multiplication, inversion, transpose
+2. a) min, max of matrix
+   b) min, max of each row of matrix
+   c) min, max in each column
+   d) trace of matrix
+3. mean, median, standard deviation, mode 
